@@ -1,0 +1,14 @@
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\HostnoMore.csprojAssemblyReference.cache
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\Views\ConfirmationPage.xaml.g.cs
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\Views\ChooseSeatingPage.xaml.g.cs
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\HostnoMore.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\HostnoMore.AssemblyInfoInputs.cache
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\HostnoMore.AssemblyInfo.cs
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\HostnoMore.dll
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\HostnoMore.pdb
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\bin\Debug\netstandard2.0\HostnoMore.deps.json
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\bin\Debug\netstandard2.0\HostnoMore.dll
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\bin\Debug\netstandard2.0\HostnoMore.pdb
+C:\Users\ryanc\Documents\CS\CS441\HostnoMore\HostnoMore\obj\Debug\netstandard2.0\XamlC.stamp
